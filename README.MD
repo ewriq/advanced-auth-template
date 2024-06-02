@@ -30,4 +30,5 @@ npm i
 ```
 
 ### 📷 Bazı Görseller
- 
+
+![dashboard](https://github.com/ewriq/advanced-auth-template/blob/main/photo/dashboard-page.png?raw=true)
