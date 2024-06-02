@@ -32,3 +32,9 @@ npm i
 ### 📷 Bazı Görseller
 
 ![dashboard](https://github.com/ewriq/advanced-auth-template/blob/main/photo/dashboard-page.png?raw=true)
+
+![register](https://github.com/ewriq/advanced-auth-template/blob/main/photo/register-page.png?raw=true)
+
+![main](https://github.com/ewriq/advanced-auth-template/blob/main/photo/main-page.png?raw=true)
+
+![login](https://github.com/ewriq/advanced-auth-template/blob/main/photo/login-page.png?raw=true)
